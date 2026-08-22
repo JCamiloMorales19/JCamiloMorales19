@@ -1,24 +1,32 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Juan Camilo Morales López
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00579A,100:0A66C2&height=180&section=header&text=Juan%20Camilo%20Morales%20López&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático%20%7C%20Infraestructura%20TI%20%7C%20Ciberseguridad%20%7C%20Desarrollo%20de%20Software&descAlignY=60&descSize=16" />
 
-### 🎓 Ingeniero Informático
-### 💻 Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo de Software
+### 👋 Ingeniero Informático
 
-<p>
-  <a href="https://www.linkedin.com/in/camilo-morales-lopez/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/JCamiloMorales19">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://jcamilomorales19.github.io/Web/">
-    <img src="https://img.shields.io/badge/Portafolio-Web-00579A?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="mailto:juancamilomoraleslopez@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+**Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo de Software**
+
+<br>
+
+<a href="https://www.linkedin.com/in/camilo-morales-lopez/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/JCamiloMorales19">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://jcamilomorales19.github.io/Web/">
+<img src="https://img.shields.io/badge/Portafolio-00579A?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="mailto:juancamilomoraleslopez@gmail.com">
+<img src="https://img.shields.io/badge/Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JCamiloMorales19&style=for-the-badge&color=00579A" alt="Profile Views">
 
 </div>
 
