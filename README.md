@@ -1,96 +1,72 @@
-<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-<h1 align="center">
-  👋 Hi, I'm Juan Camilo Morales López
-</h1>
+# 👋 ¡Hola! Soy Juan Camilo Morales López
 
-<h3 align="center">
-  Computer Engineer • IT Infrastructure • Systems Administration • IT Support • Cybersecurity • Software Development
-</h3>
+### 🎓 Ingeniero Informático
+### 💻 Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo de Software
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/camilo-morales-lopez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/JCamiloMorales19">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://jcamilomorales19.github.io/Web/">
-    <img src="https://img.shields.io/badge/Portfolio-00579A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portafolio-Web-00579A?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
   <a href="mailto:juancamilomoraleslopez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
----
-
-<!-- ======================= ABOUT ======================= -->
-
-## 🚀 About Me
-
-I'm a **Computer Engineer** who graduated in **July 2026**, with professional experience in:
-
-- 🖥️ IT Infrastructure and Systems Administration
-- 🛠️ IT Support and Level 2 Technical Escalation
-- 🔐 Cybersecurity and Infrastructure Security
-- 👨‍💼 Technical Leadership and Team Coordination
-- 💻 Software Development
-- 🗄️ Relational Databases
-- 🐧 Linux Environments
-- 🌱 Open Source Projects
-
-My professional background has evolved from **technical support and systems maintenance to technical leadership**, while also strengthening my software development and cybersecurity skills.
-
-I enjoy solving technical problems, improving processes, learning new technologies and turning business needs into practical and reliable solutions.
+</div>
 
 ---
 
-<!-- ======================= PROFILE ======================= -->
+## 👨‍💻 Sobre mí
 
-## 👨‍💻 Professional Profile
+Soy **Ingeniero Informático**, titulado en **julio de 2026**, con experiencia profesional en **infraestructura TI, administración de sistemas, soporte técnico, liderazgo técnico, ciberseguridad y desarrollo de software**.
 
-> **Computer Engineer** with experience in IT infrastructure, systems administration, technical support, cybersecurity, technical leadership and software development.
->
-> Hands-on experience with **Windows Server, Active Directory, Group Policies, Microsoft 365, firewalls, networking, Linux, Git/GitHub, Python, Java, JavaScript, SQL, MySQL and PostgreSQL**.
->
-> Experienced in **Level 2 escalation management, technical incident resolution, team coordination, vendor escalation and technical process improvement**.
->
-> Currently focused on growing professionally in **IT Infrastructure, Systems Administration, IT Support, Cybersecurity and Software Development**.
+Mi trayectoria profesional ha evolucionado desde el soporte y mantenimiento de sistemas hasta la **coordinación de equipos técnicos**, gestión de escalaciones de nivel 2, administración de infraestructura y desarrollo de soluciones tecnológicas.
+
+Me interesa especialmente la intersección entre **infraestructura, seguridad y software**, buscando siempre resolver problemas, mejorar procesos y construir soluciones prácticas y confiables.
+
+Actualmente estoy orientado a oportunidades en:
+
+**Infraestructura TI · Administración de Sistemas · Soporte L2/L3 · Seguridad TI · Ciberseguridad · Desarrollo de Software**
 
 ---
 
-<!-- ======================= EXPERTISE ======================= -->
-
-## 🧠 Areas of Expertise
+## 🧠 Áreas de especialización
 
 <table>
 <tr>
 <td width="50%">
 
-### 🖥️ Infrastructure & Systems
+### 🖥️ Infraestructura & Sistemas
 
 - Windows Server
 - Active Directory
 - Group Policies
 - Linux
 - Microsoft 365
-- Systems Administration
-- IT Infrastructure
+- Administración de sistemas
+- Infraestructura TI
 
 </td>
 
 <td width="50%">
 
-### 🛠️ IT Support
+### 🛠️ Soporte TI
 
-- Hardware Troubleshooting
-- Software Troubleshooting
-- Level 2 Support
-- Incident Management
-- Technical Escalation
-- Remote Support
-- On-site Support
+- Soporte técnico
+- Troubleshooting
+- Hardware & Software
+- Soporte presencial y remoto
+- Gestión de incidentes
+- Escalaciones L2
+- Diagnóstico de problemas
 
 </td>
 </tr>
@@ -98,21 +74,21 @@ I enjoy solving technical problems, improving processes, learning new technologi
 <tr>
 <td width="50%">
 
-### 🔐 Cybersecurity
+### 🔐 Ciberseguridad
 
-- Cybersecurity
-- Information Security
+- Ciberseguridad
+- Seguridad de infraestructura
 - Firewalls
 - Fortinet
-- IT Auditing
-- Risk Management
-- Security Controls
+- Auditoría IT
+- Gestión de riesgos
+- Controles de seguridad
 
 </td>
 
 <td width="50%">
 
-### 💻 Software Development
+### 💻 Desarrollo de Software
 
 - Python
 - Java
@@ -130,206 +106,221 @@ I enjoy solving technical problems, improving processes, learning new technologi
 
 ---
 
-<!-- ======================= TECH STACK ======================= -->
+## ⚙️ Stack tecnológico
 
-## ⚙️ Tech Stack
-
-### 💻 Programming
+### 💻 Lenguajes y desarrollo
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Bases de datos
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### 🖥️ Systems & Tools
+### 🐧 Sistemas y herramientas
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,docker,apache" />
 </p>
 
-> Note: This section represents technologies I have worked with or am currently strengthening through professional and personal projects.
+---
+
+## 🚀 Lo que hago
+
+<div align="center">
+
+| 🖥️ Infraestructura | 🔐 Seguridad | 💻 Desarrollo | 🛠️ Soporte |
+|---|---|---|---|
+| Sistemas y servidores | Seguridad TI | Aplicaciones web | Troubleshooting |
+| Windows Server | Firewalls | Aplicaciones de escritorio | Incidentes L2 |
+| Active Directory | Fortinet | Bases de datos | Escalamiento |
+| Microsoft 365 | Gestión de riesgos | Git / GitHub | Soporte remoto |
+
+</div>
 
 ---
 
-<!-- ======================= EXPERIENCE ======================= -->
+## 💼 Trayectoria profesional
 
-## 💼 Professional Experience
+Mi experiencia profesional incluye los siguientes roles:
 
-### 👨‍💼 Technical Lead
-**Punto de Servicios S.A. — Bogotá, Colombia**
+### 👨‍💼 Líder Técnico
+**Punto de Servicios S.A. — Bogotá, Colombia**  
+**Enero 2025 – Agosto 2025**
 
-**January 2025 – August 2025**
+Coordinación de equipos técnicos y gestión de servicios de soporte e infraestructura.
 
-- Led and coordinated technical teams responsible for technology support operations.
-- Managed **Level 2 technical escalations** and complex incidents.
-- Administered **Windows Server, Active Directory and Group Policies**.
-- Configured firewalls and supported infrastructure security.
-- Administered **Microsoft 365**, including accounts, permissions and services.
-- Coordinated technical escalation with manufacturers and technology vendors.
-- Strengthened technical processes, team organization and service continuity.
-- Contributed to the consolidation of a solid technical team through collaboration and knowledge sharing.
-- Monitored technical and customer experience indicators.
+### 💻 Desarrollo de Software · Open Source · Soporte TI
+**Independiente**  
+**Agosto 2025 – Actualidad**
 
-### 💻 Software Development, Open Source & IT Support
-**Independent**
+Desarrollo de soluciones, proyectos tecnológicos, participación en Open Source y soporte de entornos de software.
 
-**August 2025 – Present**
+### 🛠️ Técnico de Sistemas
+**Punto de Servicios S.A. — Bogotá, Colombia**  
+**Enero 2024 – Enero 2025**
 
-- Develop and maintain web and desktop applications.
-- Work with **Python, Java, JavaScript, PHP, SQL, MySQL and PostgreSQL**.
-- Use **Git and GitHub** for version control and source code management.
-- Participate in Open Source projects and technical environments.
-- Troubleshoot software and systems issues.
-- Apply secure development practices and cybersecurity concepts.
-- Continuously evaluate and adopt new technologies.
+### 🖥️ Técnico de Sistemas
+**Empresas Gasco (Unigas / Vidagas) — Tunja, Colombia**  
+**Enero 2021 – Diciembre 2022**
 
-### 🛠️ Systems Technician
-**Punto de Servicios S.A. — Bogotá, Colombia**
-
-**January 2024 – January 2025**
-
-- Hardware diagnosis and repair.
-- Operating system and software installation/configuration.
-- Preventive and corrective maintenance.
-- Remote and on-site IT support.
-- LAN and Wi-Fi troubleshooting.
-
-### 🖥️ Systems Technician
-**Gasco Companies (Unigas / Vidagas) — Tunja, Colombia**
-
-**January 2021 – December 2022**
-
-- Internal user support.
-- Hardware and software maintenance.
-- Basic LAN administration.
-- Backup management.
-- IT asset inventory.
-- User training and basic cybersecurity practices.
+> La experiencia detallada y los logros profesionales están disponibles en mi hoja de vida.
 
 ---
 
-<!-- ======================= EDUCATION ======================= -->
+## 🏆 Logros profesionales
 
-## 🎓 Education
-
-### Computer Engineering
-
-**Universidad Internacional de La Rioja — UNIR**
-
-🎓 Degree awarded: **July 2026**
-
-### Professional Registration
-
-📜 Professional registration issued: **August 2026**
+- 👨‍💼 **Liderazgo técnico:** coordinación y fortalecimiento de equipos de trabajo.
+- 🛠️ **Soporte L2:** gestión de escalaciones e incidentes técnicos de mayor complejidad.
+- 🔄 **Mejora de procesos:** fortalecimiento de la organización y operación del soporte.
+- 🤝 **Trabajo con fabricantes:** seguimiento de casos técnicos y escalamiento especializado.
+- 🧠 **Resolución de problemas:** diagnóstico y solución de necesidades de infraestructura y software.
+- 🚀 **Desarrollo:** construcción y mantenimiento de soluciones tecnológicas.
+- 🌱 **Open Source:** aprendizaje continuo y participación en entornos de software abierto.
 
 ---
 
-<!-- ======================= CERTIFICATIONS ======================= -->
+## 📂 Proyectos
 
-## 📜 Certifications & Technical Training
+### 🖥️ Aplicaciones Web y de Escritorio
 
-| Certification | Organization | Duration |
-|---|---|---:|
-| Authorized Technical Certification | Lenovo | 150 hours |
-| Introduction to Cybersecurity | Cisco | 100 hours |
-| Detection and Response | Cisco | 70 hours |
-| Managing Security Risks | Cisco | 70 hours |
-| Cybersecurity Fundamentals | Cisco | 70 hours |
-| IT Security Controls | Technical Training | 40 hours |
+Desarrollo de soluciones de software orientadas a necesidades de negocio y proyectos tecnológicos.
+
+**Tecnologías:**
+
+`Python` `Java` `JavaScript` `PHP` `HTML` `CSS`
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
+### 🗄️ Bases de Datos
 
-## 🚀 Projects
+Diseño, consulta y gestión de bases de datos relacionales.
 
-### 🔹 Web & Desktop Applications
+**Tecnologías:**
 
-Development of software solutions focused on business and technical needs.
-
-**Technologies:**  
-`Python` `Java` `JavaScript` `PHP` `SQL` `MySQL` `PostgreSQL`
+`SQL` `MySQL` `PostgreSQL`
 
 ---
 
-### 🔹 Open Source
+### 🌱 Open Source
 
-Participation in Open Source environments focused on software development, technical support and systems.
+Participación en proyectos y entornos Open Source relacionados con:
 
-**Technologies:**  
-`Git` `GitHub` `Linux` `Databases`
+- Desarrollo de software
+- Sistemas
+- Soporte técnico
+- Infraestructura
+- Experimentación tecnológica
 
----
+**Herramientas:**
 
-### 🔹 Technical Portfolio
-
-Personal projects and technology experiments covering software, systems, infrastructure and cybersecurity.
-
-🌐 **Portfolio:**  
-https://jcamilomorales19.github.io/Web/
+`Git` `GitHub` `Linux`
 
 ---
-
-<!-- ======================= GITHUB STATS ======================= -->
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JCamiloMorales19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCamiloMorales19&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=JCamiloMorales19&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=JCamiloMorales19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="170"
+/>
 
----
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCamiloMorales19&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
+</div>
 
-## 🐍 Contribution Activity
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=JCamiloMorales19&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
 
 ---
 
-<!-- ======================= CURRENT FOCUS ======================= -->
+## 🐍 Actividad en GitHub
 
-## 🌱 Currently Learning & Building
+<div align="center">
 
-- 🔐 Cybersecurity
-- 🖥️ IT Infrastructure
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+## 📚 Certificaciones
+
+### 🔐 Ciberseguridad
+
+- **Cisco — Introducción a la Ciberseguridad** · 100 horas
+- **Cisco — Detección y respuesta** · 70 horas
+- **Cisco — Gestión de riesgos de seguridad** · 70 horas
+- **Cisco — Fundamentos de la Ciberseguridad** · 70 horas
+
+### 🛠️ Tecnología e infraestructura
+
+- **Lenovo — Certificado Técnico Autorizado** · 150 horas
+- **Controles y Seguridad Informática** · 40 horas
+
+---
+
+## 🎓 Formación
+
+### Ingeniería Informática
+**Universidad Internacional de La Rioja — UNIR**
+
+🎓 Título profesional obtenido en **julio de 2026**
+
+### Registro profesional
+
+📜 **Tarjeta profesional expedida en agosto de 2026**
+
+---
+
+## 🌎 Idiomas
+
+🇨🇴 Español — Nativo  
+🇺🇸 Inglés — A1  
+🇮🇹 Italiano — A1  
+🇵🇹 Portugués — A1  
+
+---
+
+## 🎯 Actualmente
+
+Estoy enfocado en continuar fortaleciendo mis conocimientos y experiencia en:
+
+- 🖥️ Infraestructura TI
+- 🔐 Ciberseguridad
 - 🐧 Linux
-- 💻 Software Development
-- 🗄️ Databases
-- 🌐 Networking
-- 🔧 Automation
+- 💻 Desarrollo de software
+- 🗄️ Bases de datos
+- 🌐 Redes
+- 🔧 Automatización
 - 🌱 Open Source
-- ☁️ Cloud Technologies
+- ☁️ Tecnologías de infraestructura y servicios
 
 ---
 
-<!-- ======================= GOALS ======================= -->
+## 💼 Buscando nuevas oportunidades
 
-## 🎯 Career Goals
+Actualmente estoy abierto a oportunidades:
 
-I'm currently open to **on-site, hybrid and remote opportunities** in:
+**🏢 Presenciales · 🔄 Híbridas · 🌎 Remotas**
+
+### Roles de interés
 
 - Infrastructure Engineer
 - Systems Administrator
@@ -342,34 +333,29 @@ I'm currently open to **on-site, hybrid and remote opportunities** in:
 
 ---
 
-<!-- ======================= CONTACT ======================= -->
+## 📫 Contacto
 
-## 📫 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="mailto:juancamilomoraleslopez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+📧 **juancamilomoraleslopez@gmail.com**
 
-  <a href="https://www.linkedin.com/in/camilo-morales-lopez/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+💼 **LinkedIn**  
+https://www.linkedin.com/in/camilo-morales-lopez/
 
-  <a href="https://github.com/JCamiloMorales19">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+🐙 **GitHub**  
+https://github.com/JCamiloMorales19
 
-  <a href="https://jcamilomorales19.github.io/Web/">
-    <img src="https://img.shields.io/badge/Portfolio-00579A?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
+🌐 **Portafolio**  
+https://jcamilomorales19.github.io/Web/
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Learn • Build • Solve • Improve</b>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+### ⚡ Aprender · Construir · Resolver · Mejorar
+
+⭐ Gracias por visitar mi perfil.
+
+</div>
