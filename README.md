@@ -22,7 +22,7 @@
 
 <td width="72%" align="center" valign="middle">
 
-<h1>⚡ Ingeniero Informático</h1>
+<h1>⚡ Ingeniero Informático ⚡ </h1>
 
 <h3>
 Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo
@@ -207,8 +207,6 @@ Escalamiento
 </table>
 
 ---
-
-## 👨‍💻 Sobre mí
 
 ## 👨‍💻 Sobre mí
 
