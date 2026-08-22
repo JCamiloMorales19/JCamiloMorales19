@@ -1,47 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06141F,40:00579A,100:0A66C2&height=210&section=header&text=Juan%20Camilo%20Morales%20López&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Ingeniero%20Informático&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06141F,45:00579A,100:0A66C2&height=190&section=header&text=Juan%20Camilo%20Morales%20López&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático&descAlignY=58&descSize=18" width="100%"/>
 
 <table>
 <tr>
-<td width="70%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=Infraestructura+TI;Administración+de+Sistemas;Soporte+TI+%7C+L2%2FL3;Ciberseguridad;Desarrollo+de+Software;Open+Source" />
+<td width="72%" align="center">
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/camilo-morales-lopez/">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/JCamiloMorales19">
-<img src="https://img.shields.io/badge/GitHub-Proyectos-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://jcamilomorales19.github.io/Web/">
-<img src="https://img.shields.io/badge/Portafolio-Visitar-00579A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="mailto:juancamilomoraleslopez@gmail.com">
-<img src="https://img.shields.io/badge/Contacto-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="170"/>
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00A8FF&center=true&vCenter=true&width=650&lines=Infraestructura+TI;Administración+de+Sistemas;Soporte+TI+%7C+L2%2FL3;Ciberseguridad;Desarrollo+de+Software;Open+Source" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=JCamiloMorales19&label=Visitas%20al%20perfil&color=00579A&style=for-the-badge" />
+### ⚡ Tecnología · Seguridad · Software · Infraestructura
+
+<p>
+  <a href="https://www.linkedin.com/in/camilo-morales-lopez/">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/JCamiloMorales19">
+    <img src="https://img.shields.io/badge/GitHub-PROYECTOS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://jcamilomorales19.github.io/Web/">
+    <img src="https://img.shields.io/badge/PORTAFOLIO-VISITAR-00579A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="mailto:juancamilomoraleslopez@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACTO-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JCamiloMorales19&label=VISITAS&color=00579A&style=for-the-badge"/>
+
+</td>
+
+<td width="28%" align="center">
+
+<img src="https://raw.githubusercontent.com/garrett/Tux/master/tux-large.png" width="190"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3200&pause=1200&color=00A8FF&center=true&vCenter=true&width=240&lines=%24+whoami;juan-camilo-morales;%24+sudo+skills;infra+%7C+security+%7C+code" />
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## 👨‍💻 Sobre mí
