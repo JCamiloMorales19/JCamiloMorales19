@@ -1,212 +1,65 @@
-<!-- =========================================================
-     HEADER PRINCIPAL
-========================================================= -->
-
 <div align="center">
+
+<!-- =========================================================
+     BANNER
+========================================================= -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:06141F,45:00579A,100:0A66C2&height=190&section=header&text=Juan%20Camilo%20Morales%20López&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático&descAlignY=58&descSize=18"
   width="100%"
+  alt="Juan Camilo Morales López"
 />
 
 <br>
 
 <!-- =========================================================
-     TARJETA PRINCIPAL
+     MAIN PROFILE CARD
 ========================================================= -->
 
 <table>
 <tr>
-
-<!-- ===================== PERFIL ===================== -->
 
 <td width="72%" align="center" valign="middle">
 
-<h1>⚡ Ingeniero Informático ⚡ </h1>
-
-<h3>
-Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo
-</h3>
-
-<hr width="85%">
+<h2>⚡ Ingeniero Informático</h2>
 
 <p>
-  🎓 <b>Titulado en julio de 2026</b>
-  &nbsp; • &nbsp;
-  📜 <b>Tarjeta profesional</b>
+<b>Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo</b>
 </p>
 
-<p>
-  🖥️ Infraestructura
-  &nbsp; • &nbsp;
-  🔐 Seguridad
-  &nbsp; • &nbsp;
-  💻 Software
-  &nbsp; • &nbsp;
-  🐧 Linux
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/WINDOWS%20SERVER-0078D4?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/ACTIVE%20DIRECTORY-1F6FEB?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CYBERSECURITY-00579A?style=for-the-badge&logo=hackthebox&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-</p>
-
-<br>
-
-<!-- ===================== BOTONES ===================== -->
-
-<a href="https://www.linkedin.com/in/camilo-morales-lopez/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/JCamiloMorales19">
-<img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://jcamilomorales19.github.io/Web/">
-<img src="https://img.shields.io/badge/🌐%20PORTAFOLIO-00579A?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="mailto:juancamilomoraleslopez@gmail.com">
-<img src="https://img.shields.io/badge/📩%20CONTACTO-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<!-- ===================== ESTADO ===================== -->
-
-<table>
-<tr>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/🟢%20Disponible%20para%20trabajar-0B8F55?style=for-the-badge">
-
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/badge/🌎%20Remoto%20%7C%20Híbrido%20%7C%20Presencial-00579A?style=for-the-badge">
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=JCamiloMorales19&label=VISITAS%20AL%20PERFIL&color=00579A&style=for-the-badge"
-  alt="Profile views"
-/>
-
-</td>
-
-<!-- ===================== TUX ===================== -->
-
-<td width="28%" align="center" valign="middle">
-
-<img
-  src="https://raw.githubusercontent.com/garrett/Tux/master/tux-large.png"
-  width="190"
-  alt="Tux Linux"
-/>
-
-<br><br>
-
-<h3>🐧 Linux · Open Source</h3>
-
-<p>
-<code>$ whoami</code>
-</p>
-
-<p>
-<code>juan-camilo-morales</code>
-</p>
-
-<p>
-<code>$ sudo skills</code>
-</p>
-
-<p>
-<code>infra · security · code</code>
-</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/Open%20Source-Active-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
-
-</td>
-
-</tr>
-</table>
-
-<br>
+<hr width="80%">
 
 <!-- =========================================================
-     IDENTIDAD PROFESIONAL
+     TERMINAL
 ========================================================= -->
 
 <table>
 <tr>
+<td align="left">
 
-<td align="center">
-
-### 🖥️ INFRAESTRUCTURA
-
-Windows Server  
-Active Directory  
-Microsoft 365  
-Linux
-
-</td>
-
-<td align="center">
-
-### 🔐 SEGURIDAD
-
-Cybersecurity  
-Firewalls  
-Fortinet  
-Risk Management
-
-</td>
-
-<td align="center">
-
-### 💻 DESARROLLO
-
-Python  
-Java  
-JavaScript  
-SQL
-
-</td>
-
-<td align="center">
-
-### 🛠️ SOPORTE
-
-L2 / L3  
-Troubleshooting  
-Incidentes  
-Escalamiento
-
-</td>
-
-</tr>
-</table>
-
----
+```text
+┌──────────────────────────────────────────────┐
+│  🖥️  terminal@camilo:~$                     │
+├──────────────────────────────────────────────┤
+│                                              │
+│  $ whoami                                    │
+│  juan-camilo-morales                         │
+│                                              │
+│  $ profession                                │
+│  Ingeniero Informático                       │
+│                                              │
+│  $ focus                                     │
+│  Infrastructure                              │
+│  Cybersecurity                               │
+│  Software Development                        │
+│                                              │
+│  $ status                                    │
+│  🟢 Available for opportunities              │
+│                                              │
+│  $ sudo skills                               │
+│  infrastructure • security • code            │
+│                                              │
+└──────────────────────────────────────────────┘
 
 ## 👨‍💻 Sobre mí
 
@@ -405,29 +258,14 @@ Participación en proyectos y entornos Open Source relacionados con:
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=JCamiloMorales19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCamiloMorales19&layout=compact&theme=tokyonight&hide_border=true"
-  height="170"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=JCamiloMorales19&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
+  src="https://ghstats.dev/api/card?username=JCamiloMorales19&theme=nightowl"
+  alt="GitHub Stats Card"
 />
 
 </div>
