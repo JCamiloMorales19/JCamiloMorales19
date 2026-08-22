@@ -13,7 +13,7 @@
 <br>
 
 <!-- =========================================================
-     MAIN PROFILE CARD
+     PROFILE CARD
 ========================================================= -->
 
 <table>
@@ -33,13 +33,9 @@
      TERMINAL
 ========================================================= -->
 
-<table>
-<tr>
-<td align="left">
-
-```text
+<pre align="left">
 ┌──────────────────────────────────────────────┐
-│  🖥️  terminal@camilo:~$                     │
+│  🖥️ terminal@camilo:~$                       │
 ├──────────────────────────────────────────────┤
 │                                              │
 │  $ whoami                                    │
@@ -60,28 +56,205 @@
 │  infrastructure • security • code            │
 │                                              │
 └──────────────────────────────────────────────┘
+</pre>
 
-## 👨‍💻 Sobre mí
+<br>
+
+<!-- =========================================================
+     TECHNOLOGIES
+========================================================= -->
+
+<p>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+<!-- =========================================================
+     SOCIAL BUTTONS
+========================================================= -->
+
+<p>
+
+<a href="https://www.linkedin.com/in/camilo-morales-lopez/">
+  <img
+    src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://github.com/JCamiloMorales19">
+  <img
+    src="https://img.shields.io/badge/💻_GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://jcamilomorales19.github.io/Web/">
+  <img
+    src="https://img.shields.io/badge/🌐_Portafolio-00579A?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portafolio"
+  />
+</a>
+
+<a href="mailto:juancamilomoraleslopez@gmail.com">
+  <img
+    src="https://img.shields.io/badge/📩_Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Contacto"
+  />
+</a>
+
+</p>
+
+<br>
+
+<!-- =========================================================
+     STATUS
+========================================================= -->
+
+<p>
+
+<img
+  src="https://img.shields.io/badge/🟢_Disponible_para_trabajar-0B8F55?style=for-the-badge"
+  alt="Disponible para trabajar"
+/>
+
+<img
+  src="https://img.shields.io/badge/🌎_Remoto_|_Híbrido_|_Presencial-00579A?style=for-the-badge"
+  alt="Modalidad de trabajo"
+/>
+
+</p>
+
+<br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=JCamiloMorales19&label=VISITAS%20AL%20PERFIL&color=00579A&style=for-the-badge"
+  alt="Visitas al perfil"
+/>
+
+</td>
+
+<!-- =========================================================
+     TUX
+========================================================= -->
+
+<td width="28%" align="center" valign="middle">
+
+<img
+  src="https://raw.githubusercontent.com/garrett/Tux/master/tux-large.png"
+  width="175"
+  alt="Tux Linux"
+/>
+
+<br><br>
+
+<h3>🐧 Linux · Open Source</h3>
+
+<p>
+<code>sudo skills</code>
+</p>
+
+<p>
+<code>infra · security · code</code>
+</p>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/Open%20Source-ACTIVE-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white"
+  alt="Open Source"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- =========================================================
+     QUICK PROFILE
+========================================================= -->
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🖥️ Infraestructura
+
+Windows Server  
+Active Directory  
+Group Policies  
+Microsoft 365
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐 Seguridad
+
+Ciberseguridad  
+Firewalls  
+Fortinet  
+Gestión de riesgos
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻 Desarrollo
+
+Python  
+Java  
+JavaScript  
+PHP  
+SQL
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️ Soporte
+
+Soporte L2  
+Troubleshooting  
+Incidentes  
+Escalamiento
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 👨‍💻 Sobre mí
 
 Soy **Ingeniero Informático**, titulado en **julio de 2026**, con experiencia profesional en **infraestructura TI, administración de sistemas, soporte técnico, liderazgo técnico, ciberseguridad y desarrollo de software**.
 
 Mi trayectoria profesional ha evolucionado desde el soporte y mantenimiento de sistemas hasta la **coordinación de equipos técnicos**, gestión de escalaciones de nivel 2, administración de infraestructura y desarrollo de soluciones tecnológicas.
 
-Me interesa especialmente la intersección entre **infraestructura, seguridad y software**, buscando siempre resolver problemas, mejorar procesos y construir soluciones prácticas y confiables.
+Cuento con experiencia práctica en **Windows Server, Active Directory, Group Policies, Microsoft 365, firewalls, redes y diagnóstico de infraestructura**, complementada con desarrollo de aplicaciones, bases de datos, Linux, Git/GitHub y participación en proyectos **Open Source**.
 
-Actualmente estoy orientado a oportunidades en:
-
-**Infraestructura TI · Administración de Sistemas · Soporte L2/L3 · Seguridad TI · Ciberseguridad · Desarrollo de Software**
+Me interesa especialmente la intersección entre **infraestructura, seguridad y software**, buscando resolver problemas, mejorar procesos y construir soluciones prácticas, seguras y confiables.
 
 ---
 
-## 🧠 Áreas de especialización
+# 🧠 Áreas de especialización
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 🖥️ Infraestructura & Sistemas
+## 🖥️ Infraestructura & Sistemas
 
 - Windows Server
 - Active Directory
@@ -95,7 +268,7 @@ Actualmente estoy orientado a oportunidades en:
 
 <td width="50%">
 
-### 🛠️ Soporte TI
+## 🛠️ Soporte TI
 
 - Soporte técnico
 - Troubleshooting
@@ -106,12 +279,14 @@ Actualmente estoy orientado a oportunidades en:
 - Diagnóstico de problemas
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 🔐 Ciberseguridad
+## 🔐 Ciberseguridad
 
 - Ciberseguridad
 - Seguridad de infraestructura
@@ -125,7 +300,7 @@ Actualmente estoy orientado a oportunidades en:
 
 <td width="50%">
 
-### 💻 Desarrollo de Software
+## 💻 Desarrollo de Software
 
 - Python
 - Java
@@ -138,57 +313,95 @@ Actualmente estoy orientado a oportunidades en:
 - PostgreSQL
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## ⚙️ Stack tecnológico
+# ⚙️ Stack tecnológico
 
-### 💻 Lenguajes y desarrollo
+## 💻 Lenguajes y desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,html,css" alt="Lenguajes de programación"/>
 </p>
 
-### 🗄️ Bases de datos
+## 🗄️ Bases de datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Bases de datos"/>
 </p>
 
-### 🐧 Sistemas y herramientas
+## 🐧 Sistemas y herramientas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,apache" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,apache" alt="Sistemas y herramientas"/>
 </p>
 
 ---
 
-## 🚀 Lo que hago
+# 🚀 Lo que construyo y resuelvo
 
-<div align="center">
+<table>
+<tr>
 
-| 🖥️ Infraestructura | 🔐 Seguridad | 💻 Desarrollo | 🛠️ Soporte |
-|---|---|---|---|
-| Sistemas y servidores | Seguridad TI | Aplicaciones web | Troubleshooting |
-| Windows Server | Firewalls | Aplicaciones de escritorio | Incidentes L2 |
-| Active Directory | Fortinet | Bases de datos | Escalamiento |
-| Microsoft 365 | Gestión de riesgos | Git / GitHub | Soporte remoto |
+<td align="center" width="25%">
 
-</div>
+### 🖥️ Infraestructura
+
+Sistemas  
+Servidores  
+Configuración  
+Administración
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐 Seguridad
+
+Firewalls  
+Hardening  
+Controles  
+Gestión de riesgos
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻 Software
+
+Aplicaciones web  
+Aplicaciones de escritorio  
+Bases de datos  
+Integración
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️ Soporte
+
+Troubleshooting  
+Incidentes L2  
+Escalamiento  
+Continuidad
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💼 Trayectoria profesional
-
-Mi experiencia profesional incluye los siguientes roles:
+# 💼 Trayectoria profesional
 
 ### 👨‍💼 Líder Técnico
 **Punto de Servicios S.A. — Bogotá, Colombia**  
 **Enero 2025 – Agosto 2025**
 
-Coordinación de equipos técnicos y gestión de servicios de soporte e infraestructura.
+Coordinación y fortalecimiento de equipos técnicos, gestión de servicios de soporte e infraestructura y atención de escalaciones de nivel 2.
 
 ### 💻 Desarrollo de Software · Open Source · Soporte TI
 **Independiente**  
@@ -204,11 +417,9 @@ Desarrollo de soluciones, proyectos tecnológicos, participación en Open Source
 **Empresas Gasco (Unigas / Vidagas) — Tunja, Colombia**  
 **Enero 2021 – Diciembre 2022**
 
-> La experiencia detallada y los logros profesionales están disponibles en mi hoja de vida.
-
 ---
 
-## 🏆 Logros profesionales
+# 🏆 Logros profesionales
 
 - 👨‍💼 **Liderazgo técnico:** coordinación y fortalecimiento de equipos de trabajo.
 - 🛠️ **Soporte L2:** gestión de escalaciones e incidentes técnicos de mayor complejidad.
@@ -220,9 +431,9 @@ Desarrollo de soluciones, proyectos tecnológicos, participación en Open Source
 
 ---
 
-## 📂 Proyectos
+# 📂 Proyectos
 
-### 🖥️ Aplicaciones Web y de Escritorio
+## 🖥️ Aplicaciones Web y de Escritorio
 
 Desarrollo de soluciones de software orientadas a necesidades de negocio y proyectos tecnológicos.
 
@@ -232,7 +443,7 @@ Desarrollo de soluciones de software orientadas a necesidades de negocio y proye
 
 ---
 
-### 🗄️ Bases de Datos
+## 🗄️ Bases de Datos
 
 Diseño, consulta y gestión de bases de datos relacionales.
 
@@ -242,7 +453,7 @@ Diseño, consulta y gestión de bases de datos relacionales.
 
 ---
 
-### 🌱 Open Source
+## 🌱 Open Source
 
 Participación en proyectos y entornos Open Source relacionados con:
 
@@ -258,8 +469,7 @@ Participación en proyectos y entornos Open Source relacionados con:
 
 ---
 
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -272,55 +482,59 @@ Participación en proyectos y entornos Open Source relacionados con:
 
 ---
 
-## 🐍 Actividad en GitHub
+# 🐍 Actividad en GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+<img
+  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
 ---
 
-## 📚 Certificaciones
+# 📚 Certificaciones
 
-### 🔐 Ciberseguridad
+## 🔐 Ciberseguridad
 
 - **Cisco — Introducción a la Ciberseguridad** · 100 horas
 - **Cisco — Detección y respuesta** · 70 horas
 - **Cisco — Gestión de riesgos de seguridad** · 70 horas
 - **Cisco — Fundamentos de la Ciberseguridad** · 70 horas
 
-### 🛠️ Tecnología e infraestructura
+## 🛠️ Tecnología e infraestructura
 
 - **Lenovo — Certificado Técnico Autorizado** · 150 horas
 - **Controles y Seguridad Informática** · 40 horas
 
 ---
 
-## 🎓 Formación
+# 🎓 Formación
 
-### Ingeniería Informática
+## Ingeniería Informática
+
 **Universidad Internacional de La Rioja — UNIR**
 
 🎓 Título profesional obtenido en **julio de 2026**
 
-### Registro profesional
+## Registro profesional
 
 📜 **Tarjeta profesional expedida en agosto de 2026**
 
 ---
 
-## 🌎 Idiomas
+# 🌎 Idiomas
 
-🇨🇴 Español — Nativo  
-🇺🇸 Inglés — A1  
-🇮🇹 Italiano — A1  
-🇵🇹 Portugués — A1  
+🇨🇴 **Español** — Nativo  
+🇺🇸 **Inglés** — A1  
+🇮🇹 **Italiano** — A1  
+🇵🇹 **Portugués** — A1
 
 ---
 
-## 🎯 Actualmente
+# 🎯 Actualmente
 
 Estoy enfocado en continuar fortaleciendo mis conocimientos y experiencia en:
 
@@ -336,7 +550,7 @@ Estoy enfocado en continuar fortaleciendo mis conocimientos y experiencia en:
 
 ---
 
-## 💼 Buscando nuevas oportunidades
+# 💼 Buscando nuevas oportunidades
 
 Actualmente estoy abierto a oportunidades:
 
@@ -355,20 +569,23 @@ Actualmente estoy abierto a oportunidades:
 
 ---
 
-## 📫 Contacto
+# 📫 Contacto
 
 <div align="center">
 
-📧 **juancamilomoraleslopez@gmail.com**
+### ¿Trabajamos juntos?
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/camilo-morales-lopez/
+<a href="mailto:juancamilomoraleslopez@gmail.com">
+  <img src="https://img.shields.io/badge/📩_Correo-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
+</a>
 
-🐙 **GitHub**  
-https://github.com/JCamiloMorales19
+<a href="https://www.linkedin.com/in/camilo-morales-lopez/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-🌐 **Portafolio**  
-https://jcamilomorales19.github.io/Web/
+<a href="https://jcamilomorales19.github.io/Web/">
+  <img src="https://img.shields.io/badge/🌐_Portafolio-Visitar-00579A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portafolio"/>
+</a>
 
 </div>
 
@@ -377,6 +594,8 @@ https://jcamilomorales19.github.io/Web/
 <div align="center">
 
 ### ⚡ Aprender · Construir · Resolver · Mejorar
+
+**Ingeniero Informático | Tecnología · Seguridad · Software · Infraestructura**
 
 ⭐ Gracias por visitar mi perfil.
 
