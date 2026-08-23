@@ -1,6 +1,8 @@
 <div align="center">
 
-<!-- ==================== BANNER ==================== -->
+<!-- =========================================================
+     BANNER
+========================================================= -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:06141F,45:00579A,100:0A66C2&height=190&section=header&text=Juan%20Camilo%20Morales%20López&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático&descAlignY=58&descSize=18"
@@ -10,141 +12,141 @@
 
 <br>
 
-<!-- ==================== IDENTIDAD ==================== -->
+<!-- =========================================================
+     TARJETA PRINCIPAL
+========================================================= -->
 
-<h1>
-  ⚡ Ingeniero Informático
-</h1>
+<table>
+<tr>
+
+<td width="72%" align="center" valign="middle">
+
+<h2>⚡ Ingeniero Informático</h2>
 
 <p>
-  <b>
-    Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo
-  </b>
+<b>Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo</b>
 </p>
 
-<hr width="65%">
+<hr width="80%">
 
-<!-- ==================== TERMINAL ==================== -->
-
+<!-- Terminal animada -->
+<p align="center">
 <img
   src="./assets/terminal_github.gif"
-  width="650"
-  alt="Terminal animada de Juan Camilo Morales"
+  width="560"
+  alt="Terminal animada"
+/>
+</p>
+
+<br>
+
+<!-- Enlaces simples -->
+<p>
+<a href="https://www.linkedin.com/in/camilo-morales-lopez/">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/JCamiloMorales19">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://jcamilomorales19.github.io/Web/">Portafolio</a>
+&nbsp; • &nbsp;
+<a href="mailto:juancamilomoraleslopez@gmail.com">Contacto</a>
+</p>
+
+<br>
+
+<p>
+🟢 <b>Disponible para oportunidades</b>
+</p>
+
+<p>
+🌎 Remoto · Híbrido · Presencial
+</p>
+
+</td>
+
+<!-- =========================================================
+     TUX
+========================================================= -->
+
+<td width="28%" align="center" valign="middle">
+
+<img
+  src="https://raw.githubusercontent.com/garrett/Tux/master/tux-large.png"
+  width="165"
+  alt="Tux Linux"
 />
 
 <br><br>
 
-<!-- ==================== TECNOLOGÍAS ==================== -->
+<h3>🐧 Linux · Open Source</h3>
 
 <p>
-
-<img
-  src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white"
-  alt="Windows Server"
-/>
-
-<img
-  src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white"
-  alt="Linux"
-/>
-
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
-  alt="Python"
-/>
-
-<img
-  src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"
-  alt="Git"
-/>
-
-<img
-  src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"
-  alt="PostgreSQL"
-/>
-
+<code>sudo skills</code>
 </p>
-
-<!-- ==================== BOTONES ==================== -->
 
 <p>
-
-<a href="https://www.linkedin.com/in/camilo-morales-lopez/">
-<img
-  src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-</a>
-
-<a href="https://github.com/JCamiloMorales19">
-<img
-  src="https://img.shields.io/badge/💻_GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-</a>
-
-<a href="https://jcamilomorales19.github.io/Web/">
-<img
-  src="https://img.shields.io/badge/🌐_Portafolio-00579A?style=for-the-badge&logo=google-chrome&logoColor=white"
-  alt="Portafolio"
-/>
-</a>
-
-<a href="mailto:juancamilomoraleslopez@gmail.com">
-<img
-  src="https://img.shields.io/badge/📩_Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Contacto"
-/>
-</a>
-
+<code>infra · security · code</code>
 </p>
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<!-- ==================== TUX ==================== -->
+<!-- =========================================================
+     PERFIL RÁPIDO
+========================================================= -->
 
-<img
-  src="https://raw.githubusercontent.com/garrett/Tux/master/tux-large.png"
-  width="150"
-  alt="Tux Linux"
-/>
+<table>
+<tr>
 
-<p>
-  <b>🐧 Linux · Open Source · Technology</b>
-</p>
+<td align="center" width="25%">
 
-<p>
-  <code>sudo skills</code>
-  &nbsp;
-  <code>infra · security · code</code>
-</p>
+### 🖥️
+**Infraestructura**
 
-<br>
+Windows Server  
+Active Directory  
+Microsoft 365
 
-<!-- ==================== STATUS ==================== -->
+</td>
 
-<p>
+<td align="center" width="25%">
 
-<img
-  src="https://img.shields.io/badge/🟢_Disponible_para_trabajar-0B8F55?style=for-the-badge"
-  alt="Disponible para trabajar"
-/>
+### 🔐
+**Seguridad**
 
-<img
-  src="https://img.shields.io/badge/🌎_Remoto_|_Híbrido_|_Presencial-00579A?style=for-the-badge"
-  alt="Modalidad"
-/>
+Cybersecurity  
+Firewalls  
+Fortinet
 
-</p>
+</td>
 
-<br>
+<td align="center" width="25%">
 
-<!-- ==================== VISITAS ==================== -->
+### 💻
+**Desarrollo**
 
-<img
-  src="https://komarev.com/ghpvc/?username=JCamiloMorales19&label=VISITAS%20AL%20PERFIL&color=00579A&style=for-the-badge"
-  alt="Visitas al perfil"
-/>
+Python  
+Java  
+JavaScript
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️
+**Soporte**
+
+L2 / L3  
+Troubleshooting  
+Incidentes
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
