@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- =========================================================
-     BANNER PRINCIPAL
-========================================================= -->
+<!-- ==================== BANNER ==================== -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:06141F,45:00579A,100:0A66C2&height=190&section=header&text=Juan%20Camilo%20Morales%20López&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Informático&descAlignY=58&descSize=18"
@@ -12,48 +10,31 @@
 
 <br>
 
-<!-- =========================================================
-     TARJETA PRINCIPAL
-========================================================= -->
+<!-- ==================== IDENTIDAD ==================== -->
 
-<table>
-<tr>
-
-<!-- =========================================================
-     PERFIL / TERMINAL
-========================================================= -->
-
-<td width="72%" align="center" valign="middle">
-
-<h2>⚡ Ingeniero Informático</h2>
+<h1>
+  ⚡ Ingeniero Informático
+</h1>
 
 <p>
-<b>Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo</b>
+  <b>
+    Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo
+  </b>
 </p>
 
-<hr width="80%">
+<hr width="65%">
 
-<!-- =========================================================
-     TERMINAL ANIMADA
-     
-     IMPORTANTE:
-     El archivo debe existir en:
-     assets/terminal_github.gif
-========================================================= -->
-
-<p align="center">
+<!-- ==================== TERMINAL ==================== -->
 
 <img
   src="./assets/terminal_github.gif"
-  width="600"
+  width="650"
   alt="Terminal animada de Juan Camilo Morales"
 />
 
-</p>
+<br><br>
 
-<!-- =========================================================
-     TECNOLOGÍAS DESTACADAS
-========================================================= -->
+<!-- ==================== TECNOLOGÍAS ==================== -->
 
 <p>
 
@@ -77,49 +58,70 @@
   alt="Git"
 />
 
+<img
+  src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"
+  alt="PostgreSQL"
+/>
+
 </p>
 
-<!-- =========================================================
-     BOTONES PRINCIPALES
-========================================================= -->
+<!-- ==================== BOTONES ==================== -->
 
 <p>
 
 <a href="https://www.linkedin.com/in/camilo-morales-lopez/">
-  <img
-    src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="https://github.com/JCamiloMorales19">
-  <img
-    src="https://img.shields.io/badge/💻_GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img
+  src="https://img.shields.io/badge/💻_GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 <a href="https://jcamilomorales19.github.io/Web/">
-  <img
-    src="https://img.shields.io/badge/🌐_Portafolio-00579A?style=for-the-badge&logo=google-chrome&logoColor=white"
-    alt="Portafolio"
-  />
+<img
+  src="https://img.shields.io/badge/🌐_Portafolio-00579A?style=for-the-badge&logo=google-chrome&logoColor=white"
+  alt="Portafolio"
+/>
 </a>
 
 <a href="mailto:juancamilomoraleslopez@gmail.com">
-  <img
-    src="https://img.shields.io/badge/📩_Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Contacto"
-  />
+<img
+  src="https://img.shields.io/badge/📩_Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Contacto"
+/>
 </a>
 
 </p>
 
 <br>
 
-<!-- =========================================================
-     DISPONIBILIDAD
-========================================================= -->
+<!-- ==================== TUX ==================== -->
+
+<img
+  src="https://raw.githubusercontent.com/garrett/Tux/master/tux-large.png"
+  width="150"
+  alt="Tux Linux"
+/>
+
+<p>
+  <b>🐧 Linux · Open Source · Technology</b>
+</p>
+
+<p>
+  <code>sudo skills</code>
+  &nbsp;
+  <code>infra · security · code</code>
+</p>
+
+<br>
+
+<!-- ==================== STATUS ==================== -->
 
 <p>
 
@@ -130,117 +132,21 @@
 
 <img
   src="https://img.shields.io/badge/🌎_Remoto_|_Híbrido_|_Presencial-00579A?style=for-the-badge"
-  alt="Modalidad de trabajo"
+  alt="Modalidad"
 />
 
 </p>
 
 <br>
 
-<!-- =========================================================
-     VISITAS
-========================================================= -->
+<!-- ==================== VISITAS ==================== -->
 
 <img
   src="https://komarev.com/ghpvc/?username=JCamiloMorales19&label=VISITAS%20AL%20PERFIL&color=00579A&style=for-the-badge"
   alt="Visitas al perfil"
 />
 
-</td>
-
-<!-- =========================================================
-     TUX / LINUX / OPEN SOURCE
-========================================================= -->
-
-<td width="28%" align="center" valign="middle">
-
-<img
-  src="https://raw.githubusercontent.com/garrett/Tux/master/tux-large.png"
-  width="175"
-  alt="Tux Linux"
-/>
-
-<br><br>
-
-<h3>🐧 Linux · Open Source</h3>
-
-<p>
-<code>sudo skills</code>
-</p>
-
-<p>
-<code>infra · security · code</code>
-</p>
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/Open%20Source-ACTIVE-111827?style=for-the-badge&logo=opensourceinitiative&logoColor=white"
-  alt="Open Source"
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- =========================================================
-     RESUMEN PROFESIONAL
-========================================================= -->
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### 🖥️ Infraestructura
-
-Windows Server  
-Active Directory  
-Microsoft 365
-
-</td>
-
-<td align="center" width="25%">
-
-### 🔐 Seguridad
-
-Ciberseguridad  
-Firewalls  
-Fortinet
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻 Desarrollo
-
-Python  
-Java  
-JavaScript
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️ Soporte
-
-Soporte L2/L3  
-Troubleshooting  
-Incidentes
-
-</td>
-
-</tr>
-</table>
-
 </div>
-
----
-
-## 👨‍💻 Sobre mí
 
 ---
 
