@@ -33,32 +33,15 @@
      TERMINAL
 ========================================================= -->
 
-<pre align="left">
-┌──────────────────────────────────────────────┐
-│  🖥️ terminal@camilo:~$                       │
-├──────────────────────────────────────────────┤
-│                                              │
-│  $ whoami                                    │
-│  juan-camilo-morales                         │
-│                                              │
-│  $ profession                                │
-│  Ingeniero Informático                       │
-│                                              │
-│  $ focus                                     │
-│  Infrastructure                              │
-│  Cybersecurity                               │
-│  Software Development                        │
-│                                              │
-│  $ status                                    │
-│  🟢 Available for opportunities              │
-│                                              │
-│  $ sudo skills                               │
-│  infrastructure • security • code            │
-│                                              │
-└──────────────────────────────────────────────┘
-</pre>
+<div align="center">
 
-<br>
+<img
+  src="./assets/terminal_github.gif"
+  width="700"
+  alt="Terminal animada de Juan Camilo Morales"
+/>
+
+</div>
 
 <!-- =========================================================
      TECHNOLOGIES
