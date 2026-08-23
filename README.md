@@ -21,7 +21,7 @@
 
 <td width="72%" align="center" valign="middle">
 
-<h2>⚡ Ingeniero Informático</h2>
+<h1>⚡ Ingeniero Informático ⚡</h1>
 
 <p>
 <b>Infraestructura TI · Sistemas · Soporte · Ciberseguridad · Desarrollo</b>
