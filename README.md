@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- =========================================================
-     BANNER
+     BANNER PRINCIPAL
 ========================================================= -->
 
 <img
@@ -13,11 +13,15 @@
 <br>
 
 <!-- =========================================================
-     PROFILE CARD
+     TARJETA PRINCIPAL
 ========================================================= -->
 
 <table>
 <tr>
+
+<!-- =========================================================
+     PERFIL / TERMINAL
+========================================================= -->
 
 <td width="72%" align="center" valign="middle">
 
@@ -30,34 +34,53 @@
 <hr width="80%">
 
 <!-- =========================================================
-     TERMINAL
+     TERMINAL ANIMADA
+     
+     IMPORTANTE:
+     El archivo debe existir en:
+     assets/terminal_github.gif
 ========================================================= -->
 
-<div align="center">
+<p align="center">
 
 <img
   src="./assets/terminal_github.gif"
-  width="700"
+  width="600"
   alt="Terminal animada de Juan Camilo Morales"
 />
 
-</div>
-
-<!-- =========================================================
-     TECHNOLOGIES
-========================================================= -->
-
-<p>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 <!-- =========================================================
-     SOCIAL BUTTONS
+     TECNOLOGÍAS DESTACADAS
+========================================================= -->
+
+<p>
+
+<img
+  src="https://img.shields.io/badge/Windows%20Server-0078D4?style=flat-square&logo=windows&logoColor=white"
+  alt="Windows Server"
+/>
+
+<img
+  src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white"
+  alt="Linux"
+/>
+
+<img
+  src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
+  alt="Python"
+/>
+
+<img
+  src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"
+  alt="Git"
+/>
+
+</p>
+
+<!-- =========================================================
+     BOTONES PRINCIPALES
 ========================================================= -->
 
 <p>
@@ -95,7 +118,7 @@
 <br>
 
 <!-- =========================================================
-     STATUS
+     DISPONIBILIDAD
 ========================================================= -->
 
 <p>
@@ -114,6 +137,10 @@
 
 <br>
 
+<!-- =========================================================
+     VISITAS
+========================================================= -->
+
 <img
   src="https://komarev.com/ghpvc/?username=JCamiloMorales19&label=VISITAS%20AL%20PERFIL&color=00579A&style=for-the-badge"
   alt="Visitas al perfil"
@@ -122,7 +149,7 @@
 </td>
 
 <!-- =========================================================
-     TUX
+     TUX / LINUX / OPEN SOURCE
 ========================================================= -->
 
 <td width="28%" align="center" valign="middle">
@@ -160,7 +187,7 @@
 <br>
 
 <!-- =========================================================
-     QUICK PROFILE
+     RESUMEN PROFESIONAL
 ========================================================= -->
 
 <table>
@@ -172,7 +199,6 @@
 
 Windows Server  
 Active Directory  
-Group Policies  
 Microsoft 365
 
 </td>
@@ -183,8 +209,7 @@ Microsoft 365
 
 Ciberseguridad  
 Firewalls  
-Fortinet  
-Gestión de riesgos
+Fortinet
 
 </td>
 
@@ -194,9 +219,7 @@ Gestión de riesgos
 
 Python  
 Java  
-JavaScript  
-PHP  
-SQL
+JavaScript
 
 </td>
 
@@ -204,10 +227,9 @@ SQL
 
 ### 🛠️ Soporte
 
-Soporte L2  
+Soporte L2/L3  
 Troubleshooting  
-Incidentes  
-Escalamiento
+Incidentes
 
 </td>
 
@@ -215,6 +237,10 @@ Escalamiento
 </table>
 
 </div>
+
+---
+
+## 👨‍💻 Sobre mí
 
 ---
 
